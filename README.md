@@ -3,8 +3,8 @@
 
 ## Purpose
 The purpose of this analyis was to obtain the weather statistics of Hawaii for the months of June and December. These statistics were obtained by creating a connection to a local SQLite database and running queries using SQLalchemy. These values were converted into a lists, then into DataFrames using Pandas.
----
 
+---
 ## Results
 Three differences between June and December temperatures:
 
@@ -17,3 +17,5 @@ Three differences between June and December temperatures:
 ---
 ## Summary
 Though the temperature were slightly higher in June than December, both seasons tend to share similar temperatures. Both seasons tend to stay within an average of 70-75 degrees.
+
+---
